@@ -1,0 +1,12 @@
+D:\visual studio\hastane kayıt\hastane kayıt\bin\Debug\hastane kayıt.exe.config
+D:\visual studio\hastane kayıt\hastane kayıt\bin\Debug\hastane kayıt.exe
+D:\visual studio\hastane kayıt\hastane kayıt\bin\Debug\hastane kayıt.pdb
+D:\visual studio\hastane kayıt\hastane kayıt\obj\Debug\hastane kayıt.csproj.AssemblyReference.cache
+D:\visual studio\hastane kayıt\hastane kayıt\obj\Debug\hastane_kayıt.Form1.resources
+D:\visual studio\hastane kayıt\hastane kayıt\obj\Debug\hastane_kayıt.Form2.resources
+D:\visual studio\hastane kayıt\hastane kayıt\obj\Debug\hastane_kayıt.Form3.resources
+D:\visual studio\hastane kayıt\hastane kayıt\obj\Debug\hastane_kayıt.Properties.Resources.resources
+D:\visual studio\hastane kayıt\hastane kayıt\obj\Debug\hastane kayıt.csproj.GenerateResource.cache
+D:\visual studio\hastane kayıt\hastane kayıt\obj\Debug\hastane kayıt.csproj.CoreCompileInputs.cache
+D:\visual studio\hastane kayıt\hastane kayıt\obj\Debug\hastane kayıt.exe
+D:\visual studio\hastane kayıt\hastane kayıt\obj\Debug\hastane kayıt.pdb
